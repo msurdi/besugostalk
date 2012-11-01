@@ -95,8 +95,9 @@ Installation
   1. Ensure you have installed python 2.7 or higher
   2. Download and install [PyAIML](http://pyaiml.sourceforge.net/) (maybe also available via Pip, easy_install or your OS package manager) 
   3. Clone this repo and run besugo.py:
+  
   	```
-  	$ git clone https://github.com/msurdi/besugostalk besugostalk
+  	$ git clone https://github.com/msurdi/besugostalk.git besugostalk
   	$ cd besugostalk
   	besugostalk $ python besugo.py BesugoMan 
   	```
